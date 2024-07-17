@@ -1,0 +1,47 @@
+Project Name,Task Name,Assigned to,Start Date,Days Required,End Date,Progress
+Marketing,Market Research,Alice,45292,13,45305,0.78
+Marketing,Content Creation,Bob,45305,14,45319,1
+Marketing,Social Media Planning,Charlie,45319,22,45341,0.45
+Marketing,Campaign Analysis,Daisy,45340,25,45365,0
+Product Dev,Prototype Development,Ethan,45293,18,45311,1
+Product Dev,Quality Assurance,Fiona,45311,10,45321,0.78
+Product Dev,User Interface Design,Gabriel,45326,25,45351,0
+Customer Svc,Service Improvement,Hannah,45323,22,45345,1
+Customer Svc,Ticket Resolution,Ian,45346,25,45371,1
+Customer Svc,Customer Feedback,Julia,45372,30,45402,0
+Financial,Budget Analysis,Kevin,45324,22,45346,0.1
+Financial,Financial Reporting,Mark,45335,21,45331,0.78
+Financial,Investment Planning,Mark,45370,25,45395,1
+Research,Market Trends Analysis,Nathan,45293,23,45316,0.5
+Research,Data Collection,Olivia,45317,32,45349,0
+Research,Research Paper Writing,Peter,45350,27,45377,0
+Development,Software Development,Quinn,45293,36,45329,1
+Development,Feature Enhancement,Rachel,45330,34,45364,0
+Development,Code Review,Sam,45365,30,45395,0
+Production,Manufacturing,Tim,45294,47,45341,0.3
+Production,Quality Control,Ursula,45339,27,45366,0
+Production,Packaging Design,Victor,45365,22,45387,0
+Sales,Lead Generation,Wendy,45294,60,45354,0.7
+Sales,Client Meetings,Xavier,45297,20,45317,0.78
+Sales,Contract Negotiation,Yvette,45325,35,45360,0
+Support,Technical Support,Zoe,45292,25,45317,1
+Support,Bug Fixes,Aaron,45318,31,45349,1
+Support,Software Updates,Bella,45353,22,45375,0
+Operations,Process Optimization,Calvin,45294,30,45324,0.4
+Operations,Inventory Management,Diane,45325,25,45350,0
+Operations,Facility Maintenance,Edward,45351,20,45371,0
+Consulting,Strategic Planning,Fiona,45293,35,45328,0.6
+Consulting,Market Expansion,Gary,45324,32,45356,0
+Consulting,Client Advisory,Helen,45357,25,45382,0
+Training,Employee Training,Isaac,45295,27,45322,0.8
+Training,Certification Programs,Jane,45319,30,45349,0
+Training,Skill Development,Kyle,45350,22,45372,0
+Events,Event Planning,Laura,45294,25,45319,0.3
+Events,Conference Management,Mike,45325,20,45345,0
+Events,Sponsorship Coordinatio,n Nancy,45346,35,45381,0
+Logistics,Supply Chain Management,Oscar,45294,25,45319,0.5
+Logistics,Transportation Planning,Patricia,45320,30,45350,1
+Logistics,Inventory Optimization,Quentin,45380,20,45400,0
+Engineering,Product Design,Rachel,45293,25,45318,0.2
+Engineering,System Integration,Sam,45324,22,45346,0
+Engineering,Prototype Testing,Tom,45345,27,45372,0
